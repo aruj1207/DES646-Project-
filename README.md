@@ -9,6 +9,8 @@ DES646 Project  || 2025-26 Odd Semester
 - **Ayushmaan Singh [220276]**  
 - **Prathamesh Baviskar [220285]**  
 - **Dheeraj Dagar [220355]**
+- **Rishith [220484]**
+- **Rajesh Inapakurti [220463]**
 
 ---
 
