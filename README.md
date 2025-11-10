@@ -87,7 +87,7 @@ Potential venues include **HCI, Design Research, and Tech-for-Social-Good** conf
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/aruj1207/DES646-Project-
+   git clone https://github.com/aruj1207/DES646-Project- AI-Vastra
    cd AI-Vastra
    ```
 2. Add the API keys for Perplexity and Azure Speech Services in the main html file
